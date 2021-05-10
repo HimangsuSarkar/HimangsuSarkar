@@ -14,11 +14,8 @@
 
 <br />
 
-<details>
-  <summary>:zap:Github Stats</summary>
     <img width="550px" alt="Himangsu's Github Stats"  src="https://github-readme-stats-1-rho.vercel.app/api?username=himangsusarkar&show_icons=true"/>
   
-  </details>
 
 ### Languages and Tools:
 
