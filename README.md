@@ -13,9 +13,8 @@
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://himangsusarkar1.medium.com/) 
 
 <br />
-
-    <img width="550px" alt="Himangsu's Github Stats"  src="https://github-readme-stats-1-rho.vercel.app/api?username=himangsusarkar&show_icons=true"/>
-  
+<br/>
+  <img width="550px" alt="Himangsu Sarkar Github Stats"  src="https://github-readme-stats-1-rho.vercel.app/api?username=himangsusarkar&show_icons=true"/>
 
 ### Languages and Tools:
 
