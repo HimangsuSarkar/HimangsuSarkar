@@ -16,8 +16,7 @@
 
 <details>
   <summary>:zap:Github Stats</summary>
-<img width="550px" alt="Himangsu's Github Stats"  src="https://github-readme-stats-1-a4ffa0e3d-himangsusarkar.vercel.app
-/api?username=himangsusarkar&show_icons=true"/>
+    <img width="550px" alt="Himangsu's Github Stats"  src="https://github-readme-stats-1-rho.vercel.app/api?username=himangsusarkar&show_icons=true"/>
   
   </details>
 
