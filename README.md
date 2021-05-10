@@ -14,5 +14,12 @@
 
 <br />
 
+<details>
+  <summary>:zap:Github Stats</summary>
+<img width="550px" alt="Himangsu's Github Stats"  src="https://github-readme-stats-six-kohl.vercel.app
+/api?username=solaimanshadin&show_icons=true"/>
+  
+  </details>
+
 ### Languages and Tools:
 
