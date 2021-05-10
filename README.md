@@ -1,7 +1,7 @@
 ### Hi there, I'm  Himangsu Sarkar 👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
-- 🔭 I’m currently working !
+- 🔭 I’m currently working [zariq]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Javascipt,React Js, Laravel.
 - ⚡ Fun fact: I love to Explore the world 
