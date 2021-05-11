@@ -17,4 +17,7 @@
   <img width="550px" alt="Himangsu Sarkar Github Stats"  src="https://github-readme-stats-1-rho.vercel.app/api?username=himangsusarkar&show_icons=true"/>
 
 ### Languages and Tools:
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/[ICON SLUG].svg" />
+
 
