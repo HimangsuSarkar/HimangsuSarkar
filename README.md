@@ -28,7 +28,7 @@
 
 
 <br />
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=himangsusarkar&layout=compact&theme=tokyonight)](https://github.com/HimangsuSarkar)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=himangsusarkar&layout=compact&theme=tokyonight)](https://github.com/HimangsuSarkar)
 
 <br/>
   <img width="550px" alt="Himangsu Sarkar Github Stats"  src="https://github-readme-stats-1-rho.vercel.app/api?username=himangsusarkar&show_icons=true"/>
