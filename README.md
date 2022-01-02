@@ -3,7 +3,7 @@
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🔭 I’m currently working [zariq]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Javascipt,React Js, Laravel.
+- 🥅 2021 Goals: Javascipt,React Js, Node,express.
 - ⚡ Fun fact: I love to Explore the world 
 
 ### Connect with me:
